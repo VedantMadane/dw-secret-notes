@@ -1,5 +1,9 @@
 ﻿# dw Secret Notes
 
+> [!WARNING]
+> **DEPRECATED / UNMAINTAINED:** This repository is no longer maintained. Current development continues at [dw-secret-notes-unity](https://github.com/domezos2024/dw-secret-notes-unity).
+> The Play Store links below are outdated and refer to the legacy app. See the replacement project's README for current installation information.
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/Android-26%2B-brightgreen.svg?logo=android)](https://play.google.com/store/apps/details?id=com.snote.domezos)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2-blue.svg?logo=kotlin)](https://kotlinlang.org)
